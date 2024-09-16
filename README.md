@@ -1,21 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KZRgrbJa)
-# 1.1.1-DD-Template
+# 111
+Image Credits: https://en.m.wikipedia.org/wiki/File:Star*.svg
 
-## Include the following in this read me
+https://www.template.net/editable/74370/pink-transparent-heart-clipart
 
-1. Who is this app for?
-   This app is for anyone who wants to take a picture of something and edit it to how they like. 
-1. What does it do, how does it work
-   You click on the take a picture icon, and then it will take one. Then, you can click on one of several different colors and add to your picture
-1. Add screenshots of the design view or actual app
-   ![image](https://github.com/user-attachments/assets/74776e90-d9c7-4974-8c33-6f010196b565)
+https://illustoon.com/?id=5926
 
-1. Blocks that you showcase your individual skill
-   ![image](https://github.com/user-attachments/assets/d8336128-264d-48cc-bcfb-9ebcda8ea966)
+This app is for anyone who wants to take a picture of something. This application allows you to take a picture of anything to want, so a wide variety of people would find use in it.
+This app allows you to take a picture of anything you want through just a single click of a button. There are several other buttons that each represent different colors, which you can use to edit the picture and draw whatever you want on it using different colors. 
 
-1. The images you created
-![untitled-removebg-preview](https://github.com/user-attachments/assets/26c961e6-02e7-4fa0-9456-26dae9d42dcd)
+[Designer View]![image](https://github.com/user-attachments/assets/6ced6070-5c08-44d9-958f-19d400d8f9c9)
+[Blocks/Code]![image](https://github.com/user-attachments/assets/8210db1c-7e5b-4600-aa7f-2ef29864ea6a)
+[ImageCreated]![app_inventor_1725650843392](https://github.com/user-attachments/assets/20e3891c-0835-413f-8c71-0eb8618741d2)
 
-   Add the MIT App Inventor File to the Repository
-   
-   Add the MIT Build File to the repository
+Reflection: Overall this project was very nice, it allowed us to work with differnet components of U.I and we were able to make a functional picture editing app. 
